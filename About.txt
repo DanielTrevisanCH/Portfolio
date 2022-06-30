@@ -1,0 +1,29 @@
+This repository contains scripts used in projects I was a part of.
+Due to not being part of those teams anymore, I don't feel at liberty to post the entire projects.
+
+
+About "6DOFShooter"
+
+It doesn't have a proper name since the team disbanded before reaching a release ready state.
+It was made during an intership where ESNE partnered with IDC Games. The team was compossed of
+university students and tutors from the IDC company. Once the intership period ended, the team 
+disbanded and the game's development was halted.
+
+It was inteded to be a 6DOF multiplayer arena space shooter with the possibilty of release at the 
+IDC Games platform.
+
+
+About "FreeWings"
+
+The project is currently in development and I no longer form part of the team. My participation in
+the team was in the form of an intership where I developed gameplay level elements.
+
+The game is a realistic VR hand glider simulator with a custom setup using VR controllers as tracking 
+devices for the position and orientation of the player. The intent is for the player to hang in a
+contraption that would simulate piloting a real hand glider. The VR controllers would be used 
+temporarily as the way to track the movement of the player inside the contraption until a proper 
+tracking device was developed and integrated into the contraption.
+
+Since this was a larger project with many dependencies, I included the headers, but leaving out 
+art assets and any in-engine file. You will be to identify my section by the notes at the top of each
+header.
